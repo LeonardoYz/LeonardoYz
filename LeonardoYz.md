@@ -19,6 +19,7 @@
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 <code><img height="40" width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/pngegg.png"></code>
+<code><img height="44" width="44" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/VSCode.png"></code>
 
 <br/>
 
@@ -27,7 +28,7 @@
 <details open="">
 <summary>
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+  <span> 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 : </span>
 </summary>
 <br>
 
