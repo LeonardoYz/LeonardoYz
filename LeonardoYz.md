@@ -11,6 +11,7 @@
 
 <br/>
 
+#
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <br/>
 <code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
@@ -26,13 +27,17 @@
 
 <details open="">
 <summary>
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 <br>
 
 <p align="center">
-  
+  <a href="https://github.com/LeonardoYz">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeonardoYz">
+  </a>
+  <a href="https://github.com/LeonardoYz">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoYz">
   </a>
 </p>
 </details>
