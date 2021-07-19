@@ -38,12 +38,12 @@
 </details>
 <br>
 
-<h1>
-  Connect With Me
+<h2>
+  𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞
   <a target="_blank">
     <img src="https://media.tenor.com/images/22f42c11b612b041b4038573dca18a2d/tenor.gif" height="25px" style="max-width:100%;">
   </a>
-</h1>
+</h2>
 
 <p align="center">
   <br>
