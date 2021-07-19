@@ -33,10 +33,10 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/LeonardoYz">
+  <a href="https://github.com/LeonardoYz" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeonardoYz">
   </a>
-  <a href="https://github.com/LeonardoYz">
+  <a href="https://github.com/LeonardoYz" target="_blank">
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoYz">
   </a>
 </p>
