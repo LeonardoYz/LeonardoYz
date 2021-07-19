@@ -1,7 +1,7 @@
 <h1> 𝐇𝐢! 𝐈'𝐦 𝐋𝐞𝐨𝐧𝐚𝐫𝐝𝐨. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h1>
 <img align="right" width="50%" src="https://cdn.dribbble.com/users/220167/screenshots/2373375/resp_dribbble.gif">
 
-<h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24px"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
+<h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
 <li> 💻 𝖨'𝗆 𝖺 𝖥𝗋𝗈𝗇𝗍-𝖾𝗇𝖽 𝗐𝖾𝖻 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 </li>
 <li> 🧠 𝖨’𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 𝖩𝖺𝗏𝖺𝖲𝖼𝗋𝗂𝗉𝗍 </li>
@@ -18,7 +18,7 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img height="40" width="40" src=""></code>
+<code><img height="40" width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/pngegg.png"></code>
 
 <br/>
 
@@ -26,17 +26,13 @@
 
 <details open="">
 <summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">
   <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 <br>
 
 <p align="center">
-  <a href="https://github.com/JayantGoel001">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayantGoel001&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/JayantGoel001">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayantGoel001&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  
   </a>
 </p>
 </details>
