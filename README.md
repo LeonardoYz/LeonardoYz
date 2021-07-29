@@ -1,4 +1,4 @@
-<h1> 𝐇𝐢! 𝐈'𝐦 𝐋𝐞𝐨𝐧𝐚𝐫𝐝𝐨. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h1>
+<h1> 𝐇𝐢! 𝐈'𝐦 𝐋𝐞𝐨𝐧𝐚𝐫𝐝𝐨. <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
 <img align="right" width="50%" src="https://cdn.dribbble.com/users/220167/screenshots/2373375/resp_dribbble.gif">
 
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
@@ -15,9 +15,10 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img height="40" width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/pngegg.png"></code>
-<code><img height="35" width="35" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Visual_Studio_Code_1.35_icon.svg.png"></code>
+<code><img height="40" width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Figma.png"></code>
+<code><img height="35" width="35" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/VsCode.svg.png"></code>
 
+<br/>
 <br/>
 
 #
@@ -47,7 +48,7 @@
 <p align="center">
   <br>
   <a href="https://api.whatsapp.com/send?phone=5511994361385&text=Hi!" target="_blank">
-    <code><img height="60" width="60" src="../assets/WhatsApp.svg.png"/></code>
+    <code><img height="60" width="60" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/WhatsApp.svg.png"/></code>
   </a>
    <a href="https://t.me/LeoYzquierdo" target="_blank">
     <code><img height="53" width="53" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png"/></code>
