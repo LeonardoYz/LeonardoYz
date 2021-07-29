@@ -57,7 +57,7 @@
 <br/>
 
 
-  ![Snake animation](https://github.com/LeonardoYz)
+  ![Snake animation](https://github.com/LeonardoYz/LeonardoYz/blob/output/github-contribution-grid-snake.svg)
 
 #
 
