@@ -47,7 +47,7 @@
 <p align="center">
   <br>
   <a href="https://api.whatsapp.com/send?phone=5511994361385&text=Hi!" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/WhatsApp.svg.png"/></code>
+    <code><img height="60" width="60" src="../assets/WhatsApp.svg.png"/></code>
   </a>
    <a href="https://t.me/LeoYzquierdo" target="_blank">
     <code><img height="53" width="53" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png"/></code>
@@ -56,10 +56,10 @@
 <br/>
 
 #
+
 <h3>𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗩𝗶𝘀𝗶𝘁𝗶𝗻𝗴 <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> </h3>
 
 #
+
 <h4>𝐂𝐫𝐞𝐝𝐢𝐭: <a href="https://github.com/LeonardoYz">LeonardoYz</a></h4>
 <p> 𝐋𝐚𝐬𝐭 𝐄𝐝𝐢𝐭𝐞𝐝 𝐨𝐧: 29/07/2021 </p>
-
-
