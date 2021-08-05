@@ -10,13 +10,13 @@
 
 <br/>
 <h2>𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:</h2>
-<code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img height="40" width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Figma.png"></code>
-<code><img height="35" width="35" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/VsCode.svg.png"></code>
+<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/CSS.svg"></code>
+<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/HTML.svg"></code>
+<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/JS.svg"></code>
+<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/git.svg"></code>
+<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/github.svg"></code>
+<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Figma.png"></code>
+<code><img width="37" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/vsCode.svg"></code>
 
 <br/>
 <br/>
@@ -47,11 +47,14 @@
 
 <p align="center">
   <br>
+  <a href="mailto: leoyzquierdo@gmail.com" target="_blank">
+    <code><img width="52" src="https://image.flaticon.com/icons/png/512/281/281769.png"/></code>
+  </a>
   <a href="https://api.whatsapp.com/send?phone=5511994361385&text=Hi!" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/WhatsApp.svg.png"/></code>
+    <code><img width="60" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/WhatsApp.svg.png"/></code>
   </a>
    <a href="https://t.me/LeoYzquierdo" target="_blank">
-    <code><img height="53" width="53" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png"/></code>
+    <code><img width="53" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png"/></code>
   </a>
 </p>
 <br/>
