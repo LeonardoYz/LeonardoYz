@@ -50,7 +50,7 @@
   <a href="mailto: leoyzquierdo@gmail.com" target="_blank">
     <code><img width="52" src="https://image.flaticon.com/icons/png/512/281/281769.png"/></code>
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5511994361385&text=Hi!" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=5511994361385&text=Oi!, vim pelo seu github" target="_blank">
     <code><img width="60" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/WhatsApp.svg.png"/></code>
   </a>
    <a href="https://t.me/LeoYzquierdo" target="_blank">
