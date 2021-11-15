@@ -47,14 +47,11 @@
 
 <p align="center">
   <br>
+  <a href="https://www.linkedin.com/in/leonardo-yzquierdo-97899983/" target="_blank">
+    <code><img width="51" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/linkedIn.png"/></code>
+  </a>
   <a href="mailto: leoyzquierdo@gmail.com" target="_blank">
     <code><img width="52" src="https://image.flaticon.com/icons/png/512/281/281769.png"/></code>
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5511994361385&text=Oi!, vim pelo seu github" target="_blank">
-    <code><img width="60" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/WhatsApp.svg.png"/></code>
-  </a>
-   <a href="https://t.me/LeoYzquierdo" target="_blank">
-    <code><img width="53" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png"/></code>
   </a>
 </p>
 <br/>
@@ -69,4 +66,4 @@
 #
 
 <h4>𝐂𝐫𝐞𝐝𝐢𝐭: <a href="https://github.com/LeonardoYz">LeonardoYz</a></h4>
-<p> 𝐋𝐚𝐬𝐭 𝐄𝐝𝐢𝐭𝐞𝐝 𝐨𝐧: 29/08/2021 </p>
+<p> 𝐋𝐚𝐬𝐭 𝐄𝐝𝐢𝐭𝐞𝐝 𝐨𝐧: 15/11/2021 </p>
