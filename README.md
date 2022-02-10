@@ -10,11 +10,11 @@
 
 <br/>
 <h2>𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:</h2>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/CSS.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/HTML.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/JS.svg"></code>
+<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/HTML.svg"></code>
+<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/CSS.svg"></code>
+<code><img width="50" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Sass%20logo.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/git.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/github.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Figma.png"></code>
 <code><img width="37" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/vsCode.svg"></code>
 
