@@ -13,7 +13,7 @@
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/JS.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/HTML.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/CSS.svg"></code>
-<code><img width="50" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Sass%20logo.svg"></code>
+<code><img width="55" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Sass%20logo.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/git.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Figma.png"></code>
 <code><img width="37" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/vsCode.svg"></code>
