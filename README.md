@@ -52,7 +52,7 @@
     <code><img width="51" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/linkedIn.png"/></code>
   </a>
   <a href="mailto: leoyzquierdo@gmail.com" target="_blank">
-    <code><img width="52" src="https://image.flaticon.com/icons/png/512/281/281769.png"/></code>
+    <code><img width="55" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/gmail.png"/></code>
   </a>
 </p>
 <br/>
