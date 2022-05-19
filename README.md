@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://github.com/LeonardoYz" target="_blank">
-    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=LeonardoYz&show_icons=true&theme=react" alt="LeonardoYz's Github Stats" />
+    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=LeonardoYz&show_icons=true&theme=react" alt="LeonardoYz's Stats" />
     <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoYz&layout=compact&theme=react" alt="Most Used Languages" />
   </a>
 </p>
@@ -67,4 +67,4 @@
 #
 
 <h4>𝐂𝐫𝐞𝐝𝐢𝐭: <a href="https://github.com/LeonardoYz">LeonardoYz</a></h4>
-<p> 𝐋𝐚𝐬𝐭 𝐄𝐝𝐢𝐭𝐞𝐝 𝐨𝐧: 23/3/2022 </p>
+<p> 𝐋𝐚𝐬𝐭 𝐄𝐝𝐢𝐭𝐞𝐝 𝐨𝐧: 19/05/2022 </p>
