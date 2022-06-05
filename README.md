@@ -1,5 +1,5 @@
 <h1> 𝐇𝐢! 𝐈'𝐦 𝐋𝐞𝐨𝐧𝐚𝐫𝐝𝐨. <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
-<img align="right" width="50%" src="https://cdn.dribbble.com/users/220167/screenshots/2373375/resp_dribbble.gif">
+<img align="right" width="50%" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif">
 
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
