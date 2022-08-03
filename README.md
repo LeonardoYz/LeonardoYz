@@ -1,4 +1,4 @@
-<h1> 𝐇𝐢! 𝐈'𝐦 𝐋𝐞𝐨𝐧𝐚𝐫𝐝𝐨. <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
+<h1> 𝗛𝗶! 𝗜'𝗺 𝗟𝗲𝗼𝗻𝗮𝗿𝗱𝗼.<img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
 <img align="right" width="50%" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif">
 
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
@@ -9,7 +9,7 @@
 <li> 😆 𝖯𝗋𝗈𝗇𝗈𝗎𝗇𝗌: 𝖧𝖾/𝖧𝗂𝗆 </li>
 
 <br/>
-<h2>𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:</h2>
+<h2>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</h2>
 <code><img width="43" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/React.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Typescript.svg"></code>
 <code><img width="43" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/nextjs-logo.svg"></code>
@@ -26,7 +26,7 @@
 <details open="">
 <summary>
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">
-  <span> 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 : </span>
+  <span>𝗚𝗶𝘁𝗵𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</span>
 </summary>
 <br>
 
@@ -40,7 +40,7 @@
 <br>
 
 <h2>
-  𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞
+  𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝗪𝗶𝘁𝗵 𝗠𝗲
   <a target="_blank">
     <img src="https://media.tenor.com/images/22f42c11b612b041b4038573dca18a2d/tenor.gif" height="25px" style="max-width:100%;">
   </a>
@@ -66,5 +66,5 @@
 
 #
 
-<h4>𝐂𝐫𝐞𝐝𝐢𝐭: <a href="https://github.com/LeonardoYz">LeonardoYz</a></h4>
-<p> 𝐋𝐚𝐬𝐭 𝐄𝐝𝐢𝐭𝐞𝐝 𝐨𝐧: 19/05/2022 </p>
+<h4>𝗖𝗿𝗲𝗱𝗶𝘁: <a href="https://github.com/LeonardoYz">LeonardoYz</a></h4>
+<p>𝗟𝗮𝘀𝘁 𝗘𝗱𝗶𝘁𝗲𝗱 𝗢𝗻: 03/08/2022</p>
