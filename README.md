@@ -16,7 +16,7 @@
 <code><img width="43" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/redux-logo.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/JS.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/git.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Figma.png"></code>
+<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/figma-logo.png"></code>
 
 <br/>
 <br/>
